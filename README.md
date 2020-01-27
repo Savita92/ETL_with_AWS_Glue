@@ -13,5 +13,5 @@
 
  Create a toronto_school_db and set update frequency
 
-
+ ![GLue workflow](glue.png)
 
